@@ -1,18 +1,17 @@
 # DATA607_What-Classifies-Wildlife-Better---Context-or-Pixels-
 DATA607 Course Project - Exploration of Machine Learning &amp; Deep Learning
 
-Description of files
+Description of files: <br>
 
-1). CCN_Model_Full_Image_Set.pdf - The full‑image CNN model results, figures, and evaluation metrics.
+1). images --- directory containing 100 sample images for code testing and demonstration purposes. <br>
+2). CCN_Model_Full_Image_Set.pdf --- The full‑image CNN model results, figures, and evaluation metrics. <br>
+3). CCN_model_Google_Colab.ipynb --- Colab notebook for CNN model training and evaluation code with sample dataset. <br>
+4). MLR.ipynb --- The notebook for MLR model training and evaluation code with metadata - 'combined_reduced.csv'. <br>
+5). ResNet_Model_Full_Image_Set.pdf --- The full‑image ResNet-18 model results, figures, and evaluation metrics. <br>
+6). ResNet_model_Google_Colab.ipynb --- Colab notebook for ResNet-18 model training and evaluation code with sample dataset. <br>
+7). combined_reduced.csv --- The cleaned and reduced metadata dataset used for MLR model training and analysis. <br>
 
-2). CCN_model_Google_Colab.ipynb - CNN training and evaluation code with sample dataset.
 
-3). MLR.ipynb - Full - contextual MLR Model results
-
-4). ResNet_Model_Full_Image_Set.pdf - The full‑image ResNet-18 model results, figures, and evaluation metrics.
-
-5). ResNet_model_Google_Colab.ipynb - Colab notebook for ResNet-18 training and evaluation code with sample dataset.
-
-6). combined_reduced.csv - The cleaned and reduced metadata dataset used for MLR model training and analysis.
-
-7).  images <directory>   - subfolders in animal classes contain 100 images each as sample set
+Note: <br>
+The CNN & ResNet-18 Colab notebooks utilize the sample images dataset, which is intended only for code testing and demonstration. <br>
+The complete run of both models are provided in the accompanying .pdf files.
