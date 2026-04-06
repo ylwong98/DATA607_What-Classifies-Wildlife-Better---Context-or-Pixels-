@@ -9,8 +9,10 @@ Description of files
 
 3). MLR.ipynb - Full - contextual MLR Model results
 
-3). ResNet_Model_Full_Image_Set.pdf - The full‑image ResNet-18 model results, figures, and evaluation metrics.
+4). ResNet_Model_Full_Image_Set.pdf - The full‑image ResNet-18 model results, figures, and evaluation metrics.
 
-4). ResNet_model_Google_Colab.ipynb - Colab notebook for ResNet-18 training and evaluation code with sample dataset.
+5). ResNet_model_Google_Colab.ipynb - Colab notebook for ResNet-18 training and evaluation code with sample dataset.
 
-5). combined_reduced.csv - The cleaned and reduced metadata dataset used for MLR model training and analysis.
+6). combined_reduced.csv - The cleaned and reduced metadata dataset used for MLR model training and analysis.
+
+7).  images <directory>   - subfolders in animal classes contain 100 images each as sample set
