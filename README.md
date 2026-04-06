@@ -7,6 +7,8 @@ Description of files
 
 2). CCN_model_Google_Colab.ipynb - CNN training and evaluation code with sample dataset.
 
+3). MLR.ipynb - Full - contextual MLR Model results
+
 3). ResNet_Model_Full_Image_Set.pdf - The full‑image ResNet-18 model results, figures, and evaluation metrics.
 
 4). ResNet_model_Google_Colab.ipynb - Colab notebook for ResNet-18 training and evaluation code with sample dataset.
