@@ -2,7 +2,9 @@
 DATA607 Course Project - Exploration of Machine Learning &amp; Deep Learning
 
 Project Description: <br>
+
 Alberta’s parks contain a wide range of wildlife, and the province maintains 24/7 camera traps that capture large volumes of images and metadata. These images include wildlife, people, and other motion events, creating a bottleneck because manual classification is slow and limits ecological research. This project explores whether wildlife species can be predicted using contextual metadata alone and compares that performance to CNN‑based classification of raw images. <br>
+
 
 Description of files within repository: <br>
 
