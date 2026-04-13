@@ -1,7 +1,10 @@
 # DATA607_What-Classifies-Wildlife-Better---Context-or-Pixels-
 DATA607 Course Project - Exploration of Machine Learning &amp; Deep Learning
 
-Description of files: <br>
+Project Description: <br>
+Alberta’s parks contain a wide range of wildlife, and the province maintains 24/7 camera traps that capture large volumes of images and metadata. These images include wildlife, people, and other motion events, creating a bottleneck because manual classification is slow and limits ecological research. This project explores whether wildlife species can be predicted using contextual metadata alone and compares that performance to CNN‑based classification of raw images. <br>
+
+Description of files within repository: <br>
 
 1). images --- directory containing 100 sample images for code testing and demonstration purposes. <br>
 2). CCN_Model_Full_Image_Set.pdf --- The full‑image CNN model results, figures, and evaluation metrics. <br>
